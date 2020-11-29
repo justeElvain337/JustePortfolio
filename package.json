@@ -1,0 +1,38 @@
+{
+  "name": "dajnad",
+  "version": "1.0.0",
+  "description": "This website holds the information you may need about the Graphic/Motion designer named Nduwayo Juste Elvin based in Burundi,East Africa",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "Burundian",
+    "graphic",
+    "designer",
+    "Burundi",
+    "Just",
+    "Elvin",
+    "Nduwayo",
+    "Motion",
+    "Design",
+    "Illustrator",
+    "Editing",
+    "Commercial",
+    "Ads",
+    "UI/UX",
+    "Designer",
+    "Front-End",
+    "Web",
+    "Designer",
+    "Designer",
+    "Burundi"
+  ],
+  "author": "Just Elvin",
+  "license": "ISC",
+  "homepage" : "https://github.com/justeElvain337/Just-Elvin",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gh-pages": "^3.1.0"
+  }
+}
